@@ -1,3 +1,4 @@
+---
 # ⏱️ cloud-time — FiveM Script
 
 
@@ -38,12 +39,16 @@ RegisterCommand('weatherpanel', function()
 end, false)
 ```
 
+---
 ## 🖼️ Preview
 
 - Weather Panel
 ![Preview](https://imgur.com/L65Hluo.png)
+
 ---
 
 ## 🧑‍💻 Author
 
 [Cloud](https://github.com/Comethruuu)
+
+---
