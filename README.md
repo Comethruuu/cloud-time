@@ -1,6 +1,6 @@
 # ⏱️ cloud-time — FiveM Script
 
-**cloud-time** is a lightweight and easy-to-use FiveM script designed to manage and sync server time in a clean and efficient way. Whether you're aiming to control in-game time for roleplay scenarios or just want better control over time cycles, this script has you covered.
+
 
 ---
 
@@ -38,6 +38,10 @@ RegisterCommand('weatherpanel', function()
 end, false)
 ```
 
+## 🖼️ Preview
+
+- Weather Panel
+![Preview](https://imgur.com/L65Hluo.png)
 ---
 
 ## 🧑‍💻 Author
